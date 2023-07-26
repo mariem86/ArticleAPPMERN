@@ -1,10 +1,14 @@
 # ArticleAPPMERN
 ## Developed With
 Node.js - Javascript runtime
+
 React - A javascript library for building user interfaces
+
 Bootstrap 4 - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 ers
+
 ## Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
