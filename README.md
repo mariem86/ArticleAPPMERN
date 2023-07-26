@@ -19,7 +19,7 @@ npm -v
 Install
 Follow the following steps to get development environment running.
 
-git clone 
+git clone https://github.com/mariem86/ArticleAPPMERN.git
 
 Install node modules
 npm install
@@ -28,15 +28,24 @@ npm install
 Run start
 
 This will run the 'serve' npm task
+
+
 cd client
 npm start
 
 Run webpack dev server
+
+
 cd Article-App
 cd ArticleMernApp
+
+
 nodemon server
 
+
 "dev": "concurrently \"npm run server\" \"npm run client \""
+
+
 
 npm run dev
 
