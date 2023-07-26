@@ -2,9 +2,15 @@
 ## Developed With
 Node.js - Javascript runtime
 
+
+express js -  Node.js web application framework
+
+
+mongoose - ODM
+
 React - A javascript library for building user interfaces
 
-Bootstrap 4 - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
+Bootstrap  - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 ers
 
 ## Getting Started
