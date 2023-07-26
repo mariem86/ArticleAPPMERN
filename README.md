@@ -19,7 +19,7 @@ npm -v
 Install
 Follow the following steps to get development environment running.
 
-git clone https://github.com/drminnaar/react-movie-cards.git
+git clone 
 
 Install node modules
 npm install
