@@ -10,6 +10,12 @@ mongoose - ODM
 
 React - A javascript library for building user interfaces
 
+
+redux - est une bibliothèque open-source JavaScript de gestion d'état pour applications web
+
+axios -  est un client HTTP léger basé sur le service $http
+
+
 Bootstrap  - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 ers
 
