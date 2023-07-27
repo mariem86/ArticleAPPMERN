@@ -53,7 +53,7 @@ git clone https://github.com/mariem86/ArticleAPPMERN.git
 
 
 
-cd Article-App/ArticleMernApp/
+cd ArticleAPPMERN
 
 
 
@@ -63,7 +63,7 @@ cd Article-App/ArticleMernApp/
 ## Run
 
 
-Run frontend
+### Run frontend
 
 
 
@@ -79,7 +79,7 @@ npm install
 npm start
 
 
-Run backend
+### Run backend
 
 Install node modules
 
@@ -90,10 +90,28 @@ npm install
 nodemon server
 
 
-Run backend+frontend
+### Run backend+frontend
+
+##### frontend
+
+cd client
 
 
-"dev": "concurrently \"npm run server\" \"npm run client \""
+Install node modules
+
+
+npm install
+
+
+Install node modules
+
+
+##### backend
+
+npm install
+
+
+nodemon server
 
 
 
