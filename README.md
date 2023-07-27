@@ -43,19 +43,18 @@ node -v
 npm -v
 
 
-Install
 
 
-Follow the following steps to get development environment running.
+
+## Clone repo
 
 
 git clone https://github.com/mariem86/ArticleAPPMERN.git
+cd Article-App/ArticleMernApp/
 
 
-Install node modules
 
 
-npm install
 
 
 ## Run
@@ -64,10 +63,14 @@ npm install
 Run frontend
 
 
-cd Article-App/ArticleMernApp/client
+
+cd client
 
 
+Install node modules
 
+
+npm install
 
 
 npm start
@@ -75,9 +78,10 @@ npm start
 
 Run backend
 
+Install node modules
 
-cd Article-App/ArticleMernApp
 
+npm install
 
 
 nodemon server
@@ -89,7 +93,7 @@ Run backend+frontend
 "dev": "concurrently \"npm run server\" \"npm run client \""
 
 
-cd Article-App/ArticleMernApp
+
 
 npm run dev
 
