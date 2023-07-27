@@ -61,34 +61,35 @@ npm install
 ## Run
 
 
-Run start
+Run frontend
 
 
-This will run the 'serve' npm task
+cd Article-App/ArticleMernApp/client
 
 
-cd client
+
 
 
 npm start
 
 
-Run webpack dev server
+Run backend
 
 
-cd Article-App
-
-
-cd ArticleMernApp
+cd Article-App/ArticleMernApp
 
 
 
 nodemon server
 
 
+Run backend+frontend
+
+
 "dev": "concurrently \"npm run server\" \"npm run client \""
 
 
+cd Article-App/ArticleMernApp
 
 npm run dev
 
