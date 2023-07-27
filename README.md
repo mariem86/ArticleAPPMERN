@@ -111,10 +111,5 @@ Install node modules
 npm install
 
 
-nodemon server
-
-
-
-
 npm run dev
 
