@@ -103,13 +103,14 @@ Install node modules
 npm install
 
 
-Install node modules
 
 
 ##### backend
 
+Install node modules
+
 npm install
 
 
-npm run dev
+#### npm run dev
 
